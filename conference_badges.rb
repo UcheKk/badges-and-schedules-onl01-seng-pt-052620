@@ -15,3 +15,6 @@ def room_assignments(array)
   room_array = []
   array.each do 
     name_with_room = "Hello, #{name}! You'll be assigned to room #{number}!"
+    room_array << name_with_room
+  end
+end
