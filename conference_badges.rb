@@ -11,7 +11,7 @@ end
 return new_array
 end
 
-def room_assignments(array)
+def assign_rooms(array)
   room_array = []
   array.each do 
     name_with_room = "Hello, #{name}! You'll be assigned to room #{number}!"
