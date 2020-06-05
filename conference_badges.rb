@@ -7,3 +7,4 @@ def batch_badge_creator(array)
   speakers.each do |name|
   
 end
+end
